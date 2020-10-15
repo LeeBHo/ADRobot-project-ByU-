@@ -10,13 +10,14 @@
 
 ***
 
+## Robot Appearance
+![fig 2 Robot appearance_copy](https://user-images.githubusercontent.com/62131182/76616839-482af380-6568-11ea-9436-bbef9b91e156.jpg)
+
+
 ## Robot H/W Architecture
 
 ![75628129-6c5a0c80-5c19-11ea-8be5-8316deee991d](https://user-images.githubusercontent.com/51445511/96102956-1325bb80-0f12-11eb-8d69-5339ffc1240a.jpg)
 
-
-## Robot Appearance
-![fig 2 Robot appearance_copy](https://user-images.githubusercontent.com/62131182/76616839-482af380-6568-11ea-9436-bbef9b91e156.jpg)
 
 ## Robot Specifications
 |  <center>Type</center>  |  <center>Description</center>  |

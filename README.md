@@ -1,9 +1,12 @@
 ### Paper: 오프라인 맞춤형 광고 제공을 위한 오픈소스 로봇 플랫폼(Open-source robot platform providing offline personalized advertisements)
+### 비전카메라를 통한 얼굴인식을 바탕으로 사용자의 특성에 맞는 광고송출을 목적으로하는 자율주행 로봇
+
 ##### Journal of Convergence for Information Technology Vol. 10. No. 4, pp. 1-10, 2020
 ##### DOI : https://doi.org/10.22156/CS4SMB.2020.10.04.001
-#### 위 링크는 해당 프로젝트의 논문입니다..(Please refer to the paper for more information.)
+#### 위 링크는 해당 프로젝트의 논문입니다..로봇에 대한 자세한 사항은 위의 논문을 확인해주십시오.(Please refer to the paper for more information.
 
-### 저는 해당프로젝트에서 C++을 활용한 로봇의 충돌 회피알고리즘의 구현 및 Main파일에서 Python언어를 사용, MS Azure face API를 이용한 특징추출과 결과창 생성, 광고송출알고리즘설계를 담당했습니다.
+
+### 저는 해당프로젝트에서 C++을 활용한 로봇의 충돌 회피알고리즘의 구현 및 Main파일에서 Python언어를 사용, MS Azure face API를 이용한 특징추출과 결과창 생성, 광고 송출 알고리즘 설계를 담당했습니다.
 
 ## Robot Appearance
 ![fig 2 Robot appearance_copy](https://user-images.githubusercontent.com/62131182/76616839-482af380-6568-11ea-9436-bbef9b91e156.jpg)

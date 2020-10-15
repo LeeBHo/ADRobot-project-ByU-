@@ -1,4 +1,4 @@
-###Paper: 오프라인 맞춤형 광고 제공을 위한 오픈소스 로봇 플랫폼(Open-source robot platform providing offline personalized advertisements)
+### Paper: 오프라인 맞춤형 광고 제공을 위한 오픈소스 로봇 플랫폼(Open-source robot platform providing offline personalized advertisements)
 #### 설명 : 비전카메라를  얼굴인식을 바탕으로 사용자의 특성에 맞는 광고송출을 목적으로하는 자율주행 로봇
 ***
 ##### Journal of Convergence for Information Technology Vol. 10. No. 4, pp. 1-10, 2020

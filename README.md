@@ -5,6 +5,9 @@
 ##### DOI : https://doi.org/10.22156/CS4SMB.2020.10.04.001
 ##### 위 링크는 해당 프로젝트의 논문입니다..로봇에 대한 자세한 사항은 위의 논문을 확인해주십시오.(Please refer to the paper for more information.
 ***
+##### Youtube : https://youtu.be/uk9DwQ39DXI
+##### 위 링크는 해당 로봇의 간략 구동 및 설명영상입니다.
+***
 
 #### 역할 : 저는 해당프로젝트에서 Omni-robot파일에서 C++을 활용한 로봇의 충돌 회피알고리즘의 구현 및 Main파일에서 Python언어를 사용, MS Azure face API를 이용한 특징추출과 결과창 생성, 광고 송출 알고리즘 설계를 담당했습니다.
 

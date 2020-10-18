@@ -115,6 +115,34 @@ class Byu:
         # Display the image in the users default image browser.
         img.show()
 
+    def getImage(self):  # 웹캠 버전
+        self.cur_time = time.strftime('%Y%m%d_%H%M%S')  # 현재 연/월/일 시간:분:초
+        self.costomer_face_img = '/home/younggi/byU_main/advertising_main_class/costomer_image/'\
+        + self.cur_time + '_' + self.cur_place + '.jpg'  # 이미지를 시간, 장소로 저장
+
+        cap = cv2.VideoCapture(0)  # using USB0
+
+        self.capture_result = False
+
+        if cap.isOpened():  # 사람들 사진촬영하는 부분
+            while True:
+                ret, frame = cap.read()
+
+                if ret:
+                    self.capture_result = True
+                    cv2.imwrite(self.costomer_face_img, frame)  # 촬영 이미지를 저장
+                    break
+                else:
+                    self.capture_result = False
+                    print('no frame!')
+                    break
+        else:
+            self.capture_result = False
+            print('no camera!')
+
+        cap.release()
+        cv2.destroyAllWindows()
+
     def getImageOcamS(self, mode = 'on'): # ocam으로 이미지 받기
         self.cur_time = time.strftime('%Y%m%d_%H%M%S') # 현재 연/월/일 시간:분:초
         self.costomer_face_img = '/home/byu/byU_main/advertising_main/costomer_image/' + self.cur_time + '.jpg' #original image
